@@ -92,7 +92,10 @@ class GeminiProvider(LLMProvider):
 
 #  Ollama (local)
 class OllamaProvider(LLMProvider):
-    """Calls a locally running Ollama server (http://localhost:11434)."""
+    """Calls a locally running Ollama server (http://localhost:11434).
+       Download & Install: Go to ollama.com and download the installer for your OS
+       Open your terminal and type: ollama run llama3
+    """
 
     def __init__(self, model: str = "llama3"):
         import requests  # type: ignore
