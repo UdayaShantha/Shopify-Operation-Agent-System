@@ -1,0 +1,11 @@
+supplier_sku,name,supplier_stock,shopify_stock,lead_days,reorder_flag
+SKU020,Acne Patch Invisible 72pc,100,100,3,NO
+SKU017,Microfibre Cleaning Cloths 10pk,150,150,3,NO
+SKU028,Laptop Sleeve 15 inch,60,60,4,NO
+SKU027,Blue Light Blocking Glasses,90,90,3,NO
+SKU032,Plant-Based Dish Soap Concentrate,95,95,4,NO
+SKU030,Portable Door Lock Travel,85,85,3,NO
+SKU035,Smart Plug WiFi 2-pack,40,40,5,NO
+SKU018,Cable Management Box,65,65,4,NO
+SKU016,Portable Blender USB,48,48,5,NO
+SKU019,Wooden Desk Organiser,30,30,6,NO

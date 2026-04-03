@@ -1,0 +1,36 @@
+supplier_sku,name,category,cost_price,stock,weight_kg,length_cm,width_cm,height_cm,image_url,description,brand,shipping_cost,supplier_lead_days
+SKU001,Wireless Bluetooth Earbuds Pro,Electronics,12.5,45,0.08,8,5,4,https://example.com/img/sku001.jpg,True wireless earbuds with active noise cancellation and 24hr battery life,SoundMax,3.5,5
+SKU002,USB-C Fast Charging Cable 2m,Electronics,2.8,120,0.05,22,3,2,https://example.com/img/sku002.jpg,Braided nylon USB-C cable supporting 65W fast charging,ChargePro,1.5,3
+SKU003,Portable Power Bank 20000mAh,Electronics,18,30,0.35,16,7,3,https://example.com/img/sku003.jpg,Slim power bank with dual USB-A and USB-C output ports,PowerEdge,4,5
+SKU004,Smart LED Desk Lamp,Home & Office,14,25,0.45,35,12,10,https://example.com/img/sku004.jpg,Touch-controlled LED lamp with 3 colour temperatures and USB charging port,LumiDesk,5,7
+SKU005,Ergonomic Laptop Stand,Home & Office,11,38,0.55,30,22,5,https://example.com/img/sku005.jpg,Adjustable aluminium laptop stand compatible with all laptops up to 17 inches,DeskRise,4.5,6
+SKU006,Mechanical Gaming Keyboard,Electronics,28,15,0.85,44,14,4,https://example.com/img/sku006.jpg,TKL mechanical keyboard with RGB backlight and blue switches,KeyForce,6,7
+SKU007,Wireless Vertical Mouse,Electronics,9.5,50,0.12,12,7,5,https://example.com/img/sku007.jpg,Ergonomic vertical mouse reducing wrist strain with 2.4GHz wireless,ErgoClick,3,5
+SKU008,Phone Ring Holder Stand,Accessories,1.2,200,0.02,5,5,1,https://example.com/img/sku008.jpg,360-degree rotating ring grip stand for smartphones,GripPro,1,3
+SKU009,Stainless Steel Water Bottle 1L,Kitchen,6.5,80,0.28,28,8,8,https://example.com/img/sku009.jpg,Double-wall vacuum insulated bottle keeping drinks cold 24hrs and hot 12hrs,HydroVault,2.5,4
+SKU010,Yoga Mat Non-Slip 6mm,Sports & Fitness,8,40,0.9,62,15,15,https://example.com/img/sku010.jpg,Eco-friendly TPE yoga mat with alignment lines and carry strap,FlexFit,5.5,5
+SKU011,Resistance Bands Set 5pc,Sports & Fitness,5.5,60,0.25,20,10,5,https://example.com/img/sku011.jpg,Set of 5 latex resistance bands ranging from 5kg to 30kg resistance,BandStrong,2,4
+SKU012,Foam Roller Deep Tissue,Sports & Fitness,7,35,0.4,33,15,15,https://example.com/img/sku012.jpg,High-density EVA foam roller for muscle recovery and myofascial release,RecoverX,3.5,5
+SKU013,Bamboo Cutting Board Set 3pc,Kitchen,9,42,0.65,38,25,3,https://example.com/img/sku013.jpg,Set of 3 organic bamboo cutting boards with juice groove and handle,BambooChef,4,6
+SKU014,Silicone Kitchen Utensil Set 6pc,Kitchen,7.5,55,0.3,32,10,8,https://example.com/img/sku014.jpg,Heat-resistant silicone utensil set including spatula spoon ladle and more,CookEase,3,5
+SKU015,Air Fryer 4.5L Digital,Kitchen,35,12,2.5,33,30,35,https://example.com/img/sku015.jpg,Digital air fryer with 8 preset programs touch screen and dishwasher safe basket,AirCrisp,9,8
+SKU016,Portable Blender USB,Kitchen,11,48,0.32,22,8,8,https://example.com/img/sku016.jpg,Rechargeable mini blender for smoothies and protein shakes 380ml capacity,BlendGo,3.5,5
+SKU017,Microfibre Cleaning Cloths 10pk,Home & Office,3,150,0.15,20,15,5,https://example.com/img/sku017.jpg,Ultra-soft microfibre cloths for screens glasses and surfaces lint-free,CleanPro,1.5,3
+SKU018,Cable Management Box,Home & Office,6,65,0.35,28,12,10,https://example.com/img/sku018.jpg,Plastic cable organiser box hiding power strips and excess cables,NeatDesk,2.5,4
+SKU019,Wooden Desk Organiser,Home & Office,10.5,30,0.6,25,20,12,https://example.com/img/sku019.jpg,Multi-compartment bamboo desk organiser for pens cards and stationery,OakOrder,4,6
+SKU020,Acne Patch Invisible 72pc,Beauty,4,100,0.03,10,7,2,https://example.com/img/sku020.jpg,Hydrocolloid acne patches that absorb impurities overnight invisible on skin,ClearSpot,1.5,3
+SKU021,Jade Facial Roller,Beauty,5.5,75,0.12,18,4,3,https://example.com/img/sku021.jpg,Natural jade stone facial roller for lymphatic drainage and reducing puffiness,GlowStone,2,4
+SKU022,Electric Facial Cleanser Brush,Beauty,13,28,0.15,16,5,5,https://example.com/img/sku022.jpg,Silicone sonic facial cleansing brush waterproof with 2-speed settings,DermaPulse,3.5,6
+SKU023,Silk Pillowcase Queen,Home & Bedroom,8,55,0.12,52,38,2,https://example.com/img/sku023.jpg,100% mulberry silk pillowcase reducing hair frizz and skin creasing,SilkDream,2.5,5
+SKU024,LED Strip Lights 5m,Home & Office,7.5,70,0.18,25,8,5,https://example.com/img/sku024.jpg,RGB LED strip lights app-controlled with music sync and adhesive backing,GlowStrip,2.5,4
+SKU025,Posture Corrector Adjustable,Health,6.5,45,0.18,22,15,5,https://example.com/img/sku025.jpg,Breathable back posture corrector brace for men and women fully adjustable,SpineAlign,2.5,5
+SKU026,Massage Gun Mini,Health,22,20,0.55,18,8,8,https://example.com/img/sku026.jpg,Compact percussion massage gun with 4 heads 3 speeds and 2400mAh battery,PulseRelief,5.5,7
+SKU027,Blue Light Blocking Glasses,Health,5,90,0.04,16,6,4,https://example.com/img/sku027.jpg,Anti blue-light computer glasses reducing eye strain with UV400 protection,VisionGuard,2,3
+SKU028,Laptop Sleeve 15 inch,Accessories,6,60,0.2,38,27,2,https://example.com/img/sku028.jpg,Neoprene laptop sleeve with accessory pocket fits 14-15 inch laptops,SlimCarry,2,4
+SKU029,Travel Packing Cubes Set 6pc,Travel,8.5,48,0.3,28,18,5,https://example.com/img/sku029.jpg,Lightweight packing cube set with mesh top panels in 3 sizes,PackNeat,3,5
+SKU030,Portable Door Lock Travel,Travel,4.5,85,0.08,10,4,2,https://example.com/img/sku030.jpg,Heavy-duty portable door security lock for hotels and Airbnbs no tools needed,SafeStay,1.5,3
+SKU031,Reusable Produce Mesh Bags 9pk,Kitchen,3.5,110,0.12,32,22,2,https://example.com/img/sku031.jpg,Organic cotton mesh bags for fruits and vegetables washable and durable,EcoGrab,1.5,3
+SKU032,Plant-Based Dish Soap Concentrate,Kitchen,4,95,0.4,18,6,6,https://example.com/img/sku032.jpg,Concentrated eco-friendly dish soap lemon scented biodegradable formula,GreenSuds,2,4
+SKU033,Stainless Steel Straw Set 8pc,Kitchen,2.5,130,0.1,22,8,3,https://example.com/img/sku033.jpg,Reusable stainless steel straws with cleaning brushes and carry pouch,SipClean,1.5,3
+SKU034,Wireless Charging Pad 15W,Electronics,8.5,55,0.1,10,10,1,https://example.com/img/sku034.jpg,15W Qi wireless charging pad compatible with all Qi-enabled devices,ChargeBase,2.5,4
+SKU035,Smart Plug WiFi 2-pack,Electronics,9,40,0.12,8,5,4,https://example.com/img/sku035.jpg,WiFi smart plugs with energy monitoring compatible with Alexa and Google Home,HomeLink,3,5

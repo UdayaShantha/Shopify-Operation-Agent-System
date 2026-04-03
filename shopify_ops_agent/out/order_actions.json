@@ -1,0 +1,217 @@
+[
+  {
+    "order_id": "ORD001",
+    "sku": "SKU001",
+    "quantity": 1,
+    "country": "AU",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU001 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU035",
+    "substitute_name": "Smart Plug WiFi 2-pack",
+    "email": "Subject: Alternative product available for order ORD001\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU001) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Smart Plug WiFi 2-pack (SKU: SKU035)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD001\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD002",
+    "sku": "SKU007",
+    "quantity": 2,
+    "country": "US",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU007 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU035",
+    "substitute_name": "Smart Plug WiFi 2-pack",
+    "email": "Subject: Alternative product available for order ORD002\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU007) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Smart Plug WiFi 2-pack (SKU: SKU035)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD002\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD003",
+    "sku": "SKU009",
+    "quantity": 1,
+    "country": "AU",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU009 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU032",
+    "substitute_name": "Plant-Based Dish Soap Concentrate",
+    "email": "Subject: Alternative product available for order ORD003\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU009) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Plant-Based Dish Soap Concentrate (SKU: SKU032)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD003\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD004",
+    "sku": "SKU010",
+    "quantity": 1,
+    "country": "GB",
+    "action": "UNKNOWN_SKU",
+    "reason": "SKU SKU010 not active and no substitute found.",
+    "email": "Subject: Issue with your order ORD004\n\nHi there,\n\nWe were unable to locate the product in your order (SKU: SKU010).\nOur team will review and contact you within 1 business day.\n\nOrder ID: ORD004\n\nWe apologise for the inconvenience.\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD005",
+    "sku": "SKU002",
+    "quantity": 3,
+    "country": "AU",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU002 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU035",
+    "substitute_name": "Smart Plug WiFi 2-pack",
+    "email": "Subject: Alternative product available for order ORD005\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU002) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Smart Plug WiFi 2-pack (SKU: SKU035)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD005\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD006",
+    "sku": "SKU034",
+    "quantity": 1,
+    "country": "US",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU034 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU035",
+    "substitute_name": "Smart Plug WiFi 2-pack",
+    "email": "Subject: Alternative product available for order ORD006\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU034) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Smart Plug WiFi 2-pack (SKU: SKU035)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD006\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD007",
+    "sku": "SKU020",
+    "quantity": 2,
+    "country": "AU",
+    "action": "FULFIL",
+    "stock_before": 100,
+    "stock_after": 98,
+    "dispatch_date": "03 Apr 2026",
+    "reason": "Stock available.",
+    "email": "Subject: Your order ORD007 is confirmed!\n\nHi there,\n\nGreat news! Your order for **Acne Patch Invisible 72pc** (Qty: 2) has been confirmed and will be dispatched by 03 Apr 2026.\n\nEstimated delivery: 3\u20136 business days after dispatch.\n\nOrder ID: ORD007\nProduct : Acne Patch Invisible 72pc\nQuantity: 2\n\nThank you for shopping with us!\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD008",
+    "sku": "SKU005",
+    "quantity": 1,
+    "country": "CA",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU005 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU017",
+    "substitute_name": "Microfibre Cleaning Cloths 10pk",
+    "email": "Subject: Alternative product available for order ORD008\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU005) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Microfibre Cleaning Cloths 10pk (SKU: SKU017)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD008\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD009",
+    "sku": "SKU011",
+    "quantity": 1,
+    "country": "AU",
+    "action": "UNKNOWN_SKU",
+    "reason": "SKU SKU011 not active and no substitute found.",
+    "email": "Subject: Issue with your order ORD009\n\nHi there,\n\nWe were unable to locate the product in your order (SKU: SKU011).\nOur team will review and contact you within 1 business day.\n\nOrder ID: ORD009\n\nWe apologise for the inconvenience.\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD010",
+    "sku": "SKU027",
+    "quantity": 2,
+    "country": "US",
+    "action": "FULFIL",
+    "stock_before": 90,
+    "stock_after": 88,
+    "dispatch_date": "03 Apr 2026",
+    "reason": "Stock available.",
+    "email": "Subject: Your order ORD010 is confirmed!\n\nHi there,\n\nGreat news! Your order for **Blue Light Blocking Glasses** (Qty: 2) has been confirmed and will be dispatched by 03 Apr 2026.\n\nEstimated delivery: 3\u20136 business days after dispatch.\n\nOrder ID: ORD010\nProduct : Blue Light Blocking Glasses\nQuantity: 2\n\nThank you for shopping with us!\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD011",
+    "sku": "SKU023",
+    "quantity": 1,
+    "country": "AU",
+    "action": "UNKNOWN_SKU",
+    "reason": "SKU SKU023 not active and no substitute found.",
+    "email": "Subject: Issue with your order ORD011\n\nHi there,\n\nWe were unable to locate the product in your order (SKU: SKU023).\nOur team will review and contact you within 1 business day.\n\nOrder ID: ORD011\n\nWe apologise for the inconvenience.\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD012",
+    "sku": "SKU006",
+    "quantity": 1,
+    "country": "GB",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU006 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU035",
+    "substitute_name": "Smart Plug WiFi 2-pack",
+    "email": "Subject: Alternative product available for order ORD012\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU006) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Smart Plug WiFi 2-pack (SKU: SKU035)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD012\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD013",
+    "sku": "SKU999",
+    "quantity": 1,
+    "country": "AU",
+    "action": "UNKNOWN_SKU",
+    "reason": "SKU SKU999 not found in supplier catalogue.",
+    "email": "Subject: Issue with your order ORD013\n\nHi there,\n\nWe were unable to locate the product in your order (SKU: SKU999).\nOur team will review and contact you within 1 business day.\n\nOrder ID: ORD013\n\nWe apologise for the inconvenience.\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD014",
+    "sku": "SKU003",
+    "quantity": 1,
+    "country": "AU",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU003 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU035",
+    "substitute_name": "Smart Plug WiFi 2-pack",
+    "email": "Subject: Alternative product available for order ORD014\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU003) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Smart Plug WiFi 2-pack (SKU: SKU035)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD014\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD015",
+    "sku": "SKU029",
+    "quantity": 2,
+    "country": "US",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU029 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU030",
+    "substitute_name": "Portable Door Lock Travel",
+    "email": "Subject: Alternative product available for order ORD015\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU029) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Portable Door Lock Travel (SKU: SKU030)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD015\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD016",
+    "sku": "SKU024",
+    "quantity": 1,
+    "country": "AU",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU024 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU017",
+    "substitute_name": "Microfibre Cleaning Cloths 10pk",
+    "email": "Subject: Alternative product available for order ORD016\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU024) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Microfibre Cleaning Cloths 10pk (SKU: SKU017)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD016\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD017",
+    "sku": "SKU017",
+    "quantity": 3,
+    "country": "AU",
+    "action": "FULFIL",
+    "stock_before": 150,
+    "stock_after": 147,
+    "dispatch_date": "03 Apr 2026",
+    "reason": "Stock available.",
+    "email": "Subject: Your order ORD017 is confirmed!\n\nHi there,\n\nGreat news! Your order for **Microfibre Cleaning Cloths 10pk** (Qty: 3) has been confirmed and will be dispatched by 03 Apr 2026.\n\nEstimated delivery: 3\u20136 business days after dispatch.\n\nOrder ID: ORD017\nProduct : Microfibre Cleaning Cloths 10pk\nQuantity: 3\n\nThank you for shopping with us!\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD018",
+    "sku": "SKU025",
+    "quantity": 1,
+    "country": "NZ",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU025 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU027",
+    "substitute_name": "Blue Light Blocking Glasses",
+    "email": "Subject: Alternative product available for order ORD018\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU025) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Blue Light Blocking Glasses (SKU: SKU027)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD018\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD019",
+    "sku": "SKU014",
+    "quantity": 1,
+    "country": "AU",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU014 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU032",
+    "substitute_name": "Plant-Based Dish Soap Concentrate",
+    "email": "Subject: Alternative product available for order ORD019\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU014) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Plant-Based Dish Soap Concentrate (SKU: SKU032)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD019\n\nBest regards,\nThe Store Team"
+  },
+  {
+    "order_id": "ORD020",
+    "sku": "SKU021",
+    "quantity": 2,
+    "country": "US",
+    "action": "SUBSTITUTE",
+    "reason": "SKU SKU021 not in active listings. Substitute offered.",
+    "substitute_sku": "SKU020",
+    "substitute_name": "Acne Patch Invisible 72pc",
+    "email": "Subject: Alternative product available for order ORD020\n\nHi there,\n\nWe're sorry \u2014 the product you ordered (SKU: SKU021) is not currently available.\n\nWe'd like to offer you a substitute:\n  \u279c Acne Patch Invisible 72pc (SKU: SKU020)\n\nPlease reply to accept the substitute or request a full refund.\n\nOrder ID: ORD020\n\nBest regards,\nThe Store Team"
+  }
+]
