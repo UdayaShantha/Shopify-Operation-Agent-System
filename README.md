@@ -17,7 +17,7 @@ A **multi-agent hierarchical system** that automates Shopify dropshipping operat
           ▼                      ▼                        ▼
 ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
 │ Product Sourcing │  │  Listing Agent   │  │ Pricing & Stock  │
-│    Agent         │  │   (LLM — Claude) │  │    Agent         │
+│    Agent         │  │   (LLM — Llama3) │  │    Agent         │
 │  (Deterministic) │  └──────────────────┘  │  (Deterministic) │
 └──────────────────┘                        └──────────────────┘
           │                      │                        │
@@ -33,7 +33,7 @@ A **multi-agent hierarchical system** that automates Shopify dropshipping operat
 
 | Agent           | Provider         | Reason                                      |
 |-----------------|------------------|---------------------------------------------|
-| Listing Agent   | Anthropic Claude | Strong creative copywriting capability      |
+| Listing Agent   | Ollama           | Strong creative copywriting capability      |
 | QA Agent        | Google Gemini    | Independent second opinion; free tier       |
 | All others      | No LLM needed    | Deterministic logic / formula-based         |
 
@@ -45,7 +45,7 @@ A **multi-agent hierarchical system** that automates Shopify dropshipping operat
 |---|------------------------|---------------|-------------------------------------------------------------|
 | 1 | **Manager Agent**      | Orchestrator  | Controls pipeline order, tracks state, saves all outputs    |
 | 2 | **Product Sourcing**   | Deterministic | Selects top 10 SKUs with stock ≥ 10 and margin ≥ 25%       |
-| 3 | **Listing Agent**      | LLM (Claude)  | Generates titles, bullets, descriptions, tags, SEO          |
+| 3 | **Listing Agent**      | LLM (Llama3)  | Generates titles, bullets, descriptions, tags, SEO          |
 | 4 | **Pricing & Stock**    | Deterministic | Calculates prices via formula, outputs CSVs                 |
 | 5 | **Order Routing**      | Deterministic | Fulfil / backorder / substitute + customer emails           |
 | 6 | **QA Agent**           | LLM (Gemini)  | Spot-checks listings for over-claims, outputs redlines      |
@@ -90,9 +90,7 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4. Set API keys (free tiers — no credit card required)
-#    Anthropic free tier: https://console.anthropic.com
 #    Gemini free tier:    https://aistudio.google.com
-export ANTHROPIC_API_KEY=your_key_here
 export GEMINI_API_KEY=your_key_here
 
 # 5. Run the pipeline
@@ -151,9 +149,9 @@ Required:
 Optional:
   --out DIR                Output directory (default: out/)
   --log LEVEL              Logging level: DEBUG | INFO | WARNING (default: INFO)
-  --provider-listing STR   LLM for Listing Agent:  anthropic | gemini | ollama
-  --provider-qa      STR   LLM for QA Agent:       anthropic | gemini | ollama
-  --provider-reporter STR  LLM for Reporter Agent: anthropic | gemini | ollama
+  --provider-listing STR   LLM for Listing Agent:   gemini | ollama
+  --provider-qa      STR   LLM for QA Agent:        gemini | ollama
+  --provider-reporter STR  LLM for Reporter Agent:  gemini | ollama
 ```
 
 ### Example with debug logging and custom providers:
@@ -164,7 +162,7 @@ python -m app run \
   --orders  data/orders.csv \
   --out     out/ \
   --log     DEBUG \
-  --provider-listing  anthropic \
+  --provider-listing  llama3 \
   --provider-qa       gemini
 ```
 
