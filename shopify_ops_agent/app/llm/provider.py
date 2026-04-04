@@ -2,9 +2,9 @@
 llm/provider.py
 Multi-LLM provider interface.
 Supports:
-  - Anthropic Claude (claude-sonnet-4-20250514) - primary LLM
+  - Ollama (llama3 )  - primary llm
   - Gemini 1.5 Flash (via google-generativeai) - secondary LLM
-  - Ollama (llama3 / mistral)  $0 local fallback
+  
 
 The ACTIVE_PROVIDERS dict maps agent names to provider keys.
 Override via environment variables:
@@ -50,24 +50,6 @@ class LLMProvider(ABC):
                 logger.warning("JSON parse failed (attempt %d): %s", attempt + 1, e)
                 if attempt == 1:
                     raise ValueError(f"LLM returned invalid JSON after 2 attempts.\nRaw:\n{raw}") from e
-
-# Anthropic (Claude)
-class AnthropicProvider(LLMProvider):
-    MODEL = "claude-sonnet-4.6"
-
-    def __init__(self):
-        import anthropic  # type: ignore
-        self._client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"]) #Got this via OpenRouter
-
-    def complete(self, system: str, user: str, max_tokens: int = 1024) -> str:
-        resp = self._client.messages.create(
-            model=self.MODEL,
-            max_tokens=max_tokens,
-            system=system,
-            messages=[{"role": "user", "content": user}],
-        )
-        return resp.content[0].text
-
 
 # Google Gemini 
 class GeminiProvider(LLMProvider):
